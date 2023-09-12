@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.DS_Store
+**/*.csv  
+**/*.png 
+**/*.csv.gz
+**/*.parquet
+**/*.pyc
+
+models/neuralnetworks/tensorboard/* 
+
+models/neuralnetworks/saved_models/*.h5
+
+models/neuralnetworks/plots/lstm/*.png
