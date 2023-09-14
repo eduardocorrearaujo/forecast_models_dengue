@@ -6,8 +6,10 @@
 **/*.parquet
 **/*.pyc
 
-models/neuralnetworks/tensorboard/* 
+models/neuralnetworks/tensorboard/
 
 models/neuralnetworks/saved_models/*.h5
 
 models/neuralnetworks/plots/lstm/*.png
+
+models/gbt/plots/*.png
