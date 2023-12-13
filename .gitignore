@@ -6,6 +6,8 @@
 **/*.parquet
 **/*.pyc
 
+.env
+
 models/neuralnetworks/tensorboard/
 
 models/neuralnetworks/saved_models/*.h5
